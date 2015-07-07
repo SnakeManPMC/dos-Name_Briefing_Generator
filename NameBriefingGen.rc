@@ -1,0 +1,6 @@
+#include "NameBriefingGen.h"
+
+STRINGTABLE
+BEGIN
+    1, "%s is something."
+END
